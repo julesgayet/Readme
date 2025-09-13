@@ -25,9 +25,6 @@ Some of my projects you might want to check out:
 ### 🎨 [Latice](https://github.com/jules87000/latice)  
 End-of-year project from my first year in Computer Science.  
 
-### ✅ [To-Do App](https://github.com/LOI-mln/todo-app)  
-A simple app to organize and track your daily tasks.  
-
 ### 🔗 [Questionnary](https://github.com/Mdeterne/Web-app-questionary)  
 A PHP-based web app developed for the University of Limoges.  
 
