@@ -3,7 +3,7 @@
 Welcome to my GitHub space! ✨  
 I’m a **Computer Science student at the University of Limoges** and a passionate developer 💻  
 
-![Profile Views](https://komarev.com/ghpvc/?username=LOI-mln&color=blueviolet)  
+![Profile Views](https://komarev.com/ghpvc/?username=julesgayet&color=blueviolet)  
 
 ---
 
