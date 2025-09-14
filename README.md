@@ -33,4 +33,4 @@ Feel free to reach out and connect! 🌍
 
 ---
 
-⭐ If you enjoy my work, don’t hesitate to explore my repositories, and leave a ⭐.  er un coup d’œil à mes projets! Toute participation est la bienvenue 🙌  
+⭐ If you enjoy my work, don’t hesitate to explore my repositories, and leave a ⭐.
