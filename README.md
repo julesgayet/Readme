@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m **Jules Gayet** 🚀  
+# I’m **Jules Gayet** 
 
 Welcome to my GitHub space! ✨  
 I’m a **Computer Science student at the University of Limoges** and a passionate developer 💻  
