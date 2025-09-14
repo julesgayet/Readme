@@ -28,9 +28,9 @@ A PHP-based web app developed for the University of Limoges.
 ## 🤝 Let’s Connect
 Feel free to reach out and connect! 🌍  
 
-🐦 [Twitter / X](https://x.com/MLN_444)  
-📧 [Email](mailto:milan.loi@unilim.fr)  
+🐦 [Twitter / X](https://x.com/jules1210_)  
+📧 [Email](mailto:jules.gayet12@gmail.com)  
 
 ---
 
-⭐ If you enjoy my work, don’t hesitate to explore my repositories, use them, and leave a ⭐. Contributions are always welcome 🙌  er un coup d’œil à mes projets, à les utiliser et à y contribuer ! Toute participation est la bienvenue 🙌  
+⭐ If you enjoy my work, don’t hesitate to explore my repositories, and leave a ⭐.  er un coup d’œil à mes projets! Toute participation est la bienvenue 🙌  
